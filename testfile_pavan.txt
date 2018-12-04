@@ -1,0 +1,19 @@
+The confusion matrices are
+ [Actual           Iris-setosa  Iris-versicolor  Iris-virginica
+Predicted                                                    
+Iris-setosa               16                0               0
+Iris-versicolor            0               17               0
+Iris-virginica             0                1              16, Actual           Iris-setosa  Iris-versicolor  Iris-virginica
+Predicted                                                    
+Iris-setosa               18                0               0
+Iris-versicolor            0               14               0
+Iris-virginica             0                0              18, Actual           Iris-setosa  Iris-versicolor  Iris-virginica
+Predicted                                                    
+Iris-setosa               16                0               0
+Iris-versicolor            0               17               1
+Iris-virginica             0                1              15] 
+ Metrics averaged over 3 folds
+ Accuracy : [[0.98 1.   0.98]] 
+ Precision : [[0.95955882 1.         0.98148148]] 
+ Recall: [[0.97916667 1.         0.96296296]] 
+ F1Score: [[0.96906566 1.         0.97195767]]
